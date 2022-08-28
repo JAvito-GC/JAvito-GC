@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JAvito-GC
 - 👀 I’m interested in cybersecurity and all top edge techonologies
 - 🌱 I’m currently working as cybersceurity engineer
-- 💞️ I’m looking to collaborate with the community
+- 💞️ I’m looking to collaborate with the bash and python community
 - 📫 How to reach me xaviermorenoml@gmail.com
 
 <!---
