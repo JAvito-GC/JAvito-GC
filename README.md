@@ -16,7 +16,7 @@ Automated systems at the intersection of **detection engineering**, **security o
 |---------|-------------|
 | [**MotoRadar**](https://github.com/JAvito-GC/motoradar) | Price intelligence engine for second-hand motorcycles in Spain. FastAPI + PostgreSQL + HTMX, z-score deal scoring, 4 data sources |
 | [**MotoRadar Extension**](https://github.com/JAvito-GC/motoradar-extension) | Browser extension for auto-crawling motorcycle listings across Wallapop, Milanuncios, motos.net, moto-ocasion |
-| [**Detection-as-Code Examples**](https://github.com/JAvito-GC/detection-as-code-examples) | AWS CloudTrail detection rules with unit tests, MITRE ATT&CK mapping, and CI/CD. Panther-style detection framework |
+| [**Detection-as-Code Examples**](https://github.com/JAvito-GC/detection-as-code-examples) | AWS CloudTrail detection rules with unit tests, MITRE ATT&CK mapping, and CI/CD. Python detection-as-code framework |
 | [**MCP Security Toolkit**](https://github.com/JAvito-GC/mcp-security-toolkit) | Model Context Protocol servers for security operations — SIEM, Identity, Ticketing, Threat Intel, Cloud |
 | [**n8n Security Workflows**](https://github.com/JAvito-GC/n8n-security-workflows) | Ready-to-import n8n workflow templates for AI-powered alert triage, threat intel enrichment, and SOC automation |
 | [**Claude Guardrails**](https://github.com/JAvito-GC/claude-guardrails) | Security defense system for AI coding assistants — pre/post hooks, integrity verification, 68+ tests |
